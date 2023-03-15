@@ -8,19 +8,23 @@ categories: research-posts
 ---
 
 # Table of Content
+- [Table of Content](#table-of-content)
 - [System Info](#system-info)
 - [Ubuntu](#ubuntu)
 - [NVIDIA](#nvidia)
 - [OpenCV](#opencv)
-  * [Problems](#problems-encountered-cv)
+    - [Problems Encountered CV](#problems-encountered-cv)
 - [Anaconda](#anaconda)
-- [NOCS](#nocs-network)
-  * [Problems](#problems-encountered-nocs)
-- [TensorFlow](#tensorflow)
+- [NOCS Network](#nocs-network)
+    - [Problems Encountered NOCS](#problems-encountered-nocs)
+- [Tensorflow](#tensorflow)
 - [Libfusion](#libfusion)
-  * [Problems](#problems-encountered-libfusion)
-- [Azure Kinect](#azure-kinect-depth-camera)
+    - [Problems Encountered libfusion](#problems-encountered-libfusion)
+- [Azure Kinect Depth Camera](#azure-kinect-depth-camera)
 - [Log](#log)
+    - [OpenCV CMake Output](#opencv-cmake-output)
+    - [Tensorflow Configuration Example](#tensorflow-configuration-example)
+    - [Tensorflow Bazel Build Output](#tensorflow-bazel-build-output)
 
 
 # System Info
