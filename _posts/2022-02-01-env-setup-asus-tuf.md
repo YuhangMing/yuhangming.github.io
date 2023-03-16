@@ -3,8 +3,8 @@ layout: post
 title:  Environment Setup on Asus TUF A15 Laptop
 date:   2022-02-01 16:40:16
 description: Detailed instruction on programming environment setup.
-tags: setup programming
-categories: research-posts
+tags: linux programming
+categories: mix-posts
 ---
 
 # Table of Content
