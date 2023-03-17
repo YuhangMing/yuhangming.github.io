@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Linux command mix
-date:   2022-02-01 16:40:16
+date:   2022-03-16 12:40:16
 description: cheat sheet.
 tags: linux
 categories: mix-posts
