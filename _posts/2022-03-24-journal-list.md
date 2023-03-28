@@ -115,11 +115,19 @@ categories: mix-posts
 # Overview
 
 Subjects:
+
+[Done]
 CS: Neurosciences
 CS: Robotics
 CS: Software Engineering
 CS: Artificial Intelligence
 
+[ToDo]
+CS: Imaging Science & Photographic Technology
+CS: Information Systems
+CS: Cybernetics
+Engineering: Electrical & Electronic
+Automation & Control Systems
 
 | Journal Name | 中科院分区 | CCF分类 | 学科 | Ref |
 | ------------ | -------- | ------ | ---- | --- |
@@ -158,7 +166,7 @@ CS: Artificial Intelligence
 | [Journal of Visual Communication and Image Representation](#journal-of-visual-communication-and-image-representation) | 3区 | C类 | CS: Software Engineering |容易 |
 | [Pattern Recognition Letters](#pattern-recognition-letters) | 3区 | C类 | CS: Artificial Intelligence |~25% |
 | [Image and Vision Computing](#image-and-vision-computing) | 3区 | C类 | CS: Artificial Intelligence |~20% |
-| [**Virtual Reality**](#virtual-reality) | 3区 | - | CS: Software Engineering |容易 |
+| [**Virtual Reality**](#virtual-reality) | 3区 | - | CS: Software Engineering/Imaging Science & Photographic Technology |容易 |
 | [*Autonomous Robots*](#autonomous-robots) | 3区 | - | CS: Robotics/Artificial Intelligence |较易 |
 | [IEEE Intelligent Systems](#ieee-intelligent-systems) | 3区 | - | CS: Artificial Intelligence |较易 |
 | [*Image and Visual Computing*](#image-and-visual-computing) | 3区 | - | CS: Software Engineering |~20% |
@@ -179,7 +187,7 @@ CS: Artificial Intelligence
 | [Autonomous Agents and Multi-Agent Systems](#autonomous-agents-and-multi-agent-systems) | 4区 | B类 | CS: Artificial Intelligence |容易 |
 | [ACM Transactions on Autonomous and Adaptive Systems](#acm-transactions-on-autonomous-and-adaptive-systems) | 4区 | B类 | CS: Artificial Intelligence |容易 |
 | [Natural Computing](#natural-computing) | 4区 | C类 | CS: Artificial Intelligence |容易 |
-| [IET Image Processing](#iet-image-processing) | 4区 | C类 | CS: Artificial Intelligence |容易 |
+| [IET Image Processing](#iet-image-processing) | 4区 | C类 | CS: Artificial Intelligence/Imaging Science & Photographic Technology / Engineering: Electrical & Electronic |容易 |
 | [Computational Intelligence](#computational-intelligence) | 4区 | C类 | CS: Artificial Intelligence |容易 |
 | [Pattern Analysis and Applications](#pattern-analysis-and-applications) | 4区 | C类 | CS: Artificial Intelligence |容易 |
 | [International Journal of Pattern Recognition and Artificial Intelligence](#international-journal-of-pattern-recognition-and-artificial-intelligence) | 4区 | C类 | CS: Artificial Intelligence |容易 |
@@ -198,7 +206,7 @@ CS: Artificial Intelligence
 | [International Journal on Computer Vision](#international-journal-on-computer-vision) | 2区 (Top)-2区 | A类 | CS: Artificial Intelligence |较难（130） |
 | [IEEE Transactions on Robotics](#ieee-transactions-on-robotics) | 1区 (Top)-2区 | B类 | CS: Robotics |较易 |
 | [International Journal of Robotics Research](#international-journal-of-robotics-research) | 2区 | - | CS: Robotics |较易 |
-| [IEEE Transactions on Cybernetics](#ieee-transactions-on-cybernetics) | 1区 (Top) | B类 | CS: Artificial Intelligence |-（1290） |
+| [IEEE Transactions on Cybernetics](#ieee-transactions-on-cybernetics) | 1区 (Top) | B类 | CS: Artificial Intelligence/Cybernetics / Automation & Control Systems |-（1290） |
 | [IEEE Transactions on Visualization and Computer Graphics](#ieee-transactions-on-visualization-and-computer-graphics) | 1区 (Top)-2区 | A类 | CS: Software Engineering |～25% |
 | [IEEE Transactions on Multimedia](#ieee-transactions-on-multimedia) | 1区 (Top)-2区(Top) | B类 | CS: Software Engineering |较易 |
 | [Annual Review of Control Robotics and Autonomous Systems](#annual-review-of-control-robotics-and-autonomous-systems) | 1区 (Top)--区 | - | CS: Robotics |较易 |
@@ -350,7 +358,7 @@ IF: 25.898; h-index: -。
 SCIE收录；审稿-；-。
 
 ## IEEE Transactions on Cybernetics
-学科：CS - Artificial Intelligence
+学科：CS - Artificial Intelligence / Automation & Control Systems / Cybernetics
 
 Website: [description](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [submission](http://mc.manuscriptcentral.com/cyb-ieee), [letpub](https://www.letpub.com.cn/index.php?journalid=9467&page=journalapp&view=detail).
 
@@ -910,7 +918,7 @@ IF: 2.835; h-index: 59。
 SCIE收录；审稿～3月；容易。
 
 ## Virtual Reality
-学科：CS - Software Engineering
+学科：CS - Software Engineering/Imaging Science & Photographic Technology
 
 Website: [description](https://www.springer.com/10055), [submission](https://www.editorialmanager.com/vire), [letpub](https://www.letpub.com.cn/index.php?journalid=8718&page=journalapp&view=detail).
 
@@ -1506,7 +1514,7 @@ SCIE收录；审稿-周；-。
 [letpub](https://www.letpub.com.cn/index.php?journalid=6045&page=journalapp&view=detail).
 
 ## IET Image Processing
-学科：CS - Artificial Intelligence
+学科：CS - Artificial Intelligence/Imaging Science & Photographic Technology / Engineering - Electrical & Electronic
 
 [letpub](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail).
 
