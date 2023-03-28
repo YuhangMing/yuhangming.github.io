@@ -12,6 +12,7 @@ categories: mix-posts
 - [SCI vs. SCIE](#sci-vs-scie)
 - [Overview](#overview)
 - [Journal Details](#journal-details)
+  - [Neurocomputing](#neurocomputing)
   - [IEEE Sensors Journal](#ieee-sensors-journal)
   - [IEEE Transactions on Instrumentation and Measurement](#ieee-transactions-on-instrumentation-and-measurement)
   - [Information Fusion](#information-fusion)
@@ -24,7 +25,6 @@ categories: mix-posts
   - [IEEE Transactions on Evolutionary Computation](#ieee-transactions-on-evolutionary-computation)
   - [IEEE Transactions on Neural Networks and Learning Systems](#ieee-transactions-on-neural-networks-and-learning-systems)
   - [IEEE Transactions on Pattern Analysis and Machine Intelligence](#ieee-transactions-on-pattern-analysis-and-machine-intelligence)
-  - [Neurocomputing](#neurocomputing)
   - [Artificial Intelligence](#artificial-intelligence)
   - [International Journal on Computer Vision](#international-journal-on-computer-vision)
   - [International Journal of Neural Systems](#international-journal-of-neural-systems)
@@ -260,6 +260,22 @@ Automation & Control Systems
 
 # Journal Details
 
+## Neurocomputing
+学科：CS - Artificial Intelligence
+
+Website: [description](http://www.elsevier.com/wps/find/journaldescription.cws_home/505628/description), [submission](https://www.editorialmanager.com/NEUCOM), [letpub](https://www.letpub.com.cn/index.php?journalid=6141&page=journalapp&view=detail), [preprint policy](https://www.elsevier.com/about/policies/sharing).
+
+出版商：Elsevier; 出版周期：Bimonthly; 年文章数：1801。
+
+|中科院分区 | | |CCF分类 | |
+| ------------ | ------------- | --- | --- | |
+|2022年12月升级版 |2区（计算机科学）|Top |第五版 |C类 |
+|2021年12月基础版 |2区（工程技术） |- |第四版 |C类 |
+
+IF: 5.779; h-index: 110。
+
+SCIE收录；审稿平均15.5周；80%。
+
 ## IEEE Sensors Journal
 学科：Engineering - Electrical & Electronic
 
@@ -452,22 +468,6 @@ Website: [description](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3
 IF: 24.314; h-index: 326。
 
 SCIE收录；审稿~7.9月；很难。
-
-## Neurocomputing
-学科：CS - Artificial Intelligence
-
-Website: [description](http://www.elsevier.com/wps/find/journaldescription.cws_home/505628/description), [submission](https://www.editorialmanager.com/NEUCOM), [letpub](https://www.letpub.com.cn/index.php?journalid=6141&page=journalapp&view=detail).
-
-出版商：Elsevier; 出版周期：Bimonthly; 年文章数：1801。
-
-|中科院分区 | | |CCF分类 | |
-| ------------ | ------------- | --- | --- | |
-|2022年12月升级版 |2区（计算机科学）|Top |第五版 |C类 |
-|2021年12月基础版 |2区（工程技术） |- |第四版 |C类 |
-
-IF: 5.779; h-index: 110。
-
-SCIE收录；审稿平均15.5周；80%*。
 
 ## Artificial Intelligence
 学科：CS - Artificial Intelligence
