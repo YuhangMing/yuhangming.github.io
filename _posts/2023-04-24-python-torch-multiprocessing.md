@@ -8,10 +8,29 @@ categories: mix-posts
 ---
 
 # Table of Content
-- [Introduction](#introduction)
-__getattribute__
+- [References](#references)
+- [Thread vs. Process](#thread-vs-process)
+- [Life-cycle of a Process](#life-cycle-of-a-process)
+  - [New child process](#new-child-process)
+  - [Running process](#running-process)
+    - [spawm](#spawm)
+    - [fork](#fork)
+    - [forkserver](#forkserver)
+  - [Blocked process (optional)](#blocked-process-optional)
+  - [Terminated process](#terminated-process)
+- [Basic Usage](#basic-usage)
+    - [Run a Function in a Process](#run-a-function-in-a-process)
+    - [Communication (Exchanging objects) between processes](#communication-exchanging-objects-between-processes)
+    - [Synchronization between processes](#synchronization-between-processes)
+- [Advanced Usage](#advanced-usage)
+
+
 # References
- [official-docs](https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing); [ref-1](https://superfastpython.com/multiprocessing-in-python/); [ref-2](https://www.digitalocean.com/community/tutorials/python-multiprocessing-example).
+[python-docs](https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing); [torch-docs](https://pytorch.org/docs/stable/multiprocessing.html); [ref-0](https://tokudayo.github.io/multiprocessing-in-python-and-torch/); [ref-1](https://superfastpython.com/multiprocessing-in-python/); [ref-2](https://www.digitalocean.com/community/tutorials/python-multiprocessing-example).
+
+`torch.multiprocessing` is a wrapper around the native `multiprocessing` module. It registers custom reducers, that use shared memory to provide shared views on the same data in different processes. Once the tensor/storage is moved to shared_memory (see `share_memory_()`), it will be possible to send it to other processes without making any copie
+
+The API is 100% compatible with the original module - it’s enough to change `import multiprocessing` to `import torch.multiprocessing` to have all the tensors sent through the queues or shared via other mechanisms, moved to shared memory.
 
 # Thread vs. Process
 A process refers to a computer program. In Python a process is in fact one instance of the python interpreter that executes python instructinos (byte-code, not the code written in the program).
@@ -199,7 +218,8 @@ if __name__ == '__main__':
         print(l)
 ```
 
-# Advanced Usage - Customized managers and proxies
+# Advanced Usage 
+Customized managers and proxies
 
 The `Proxy` objects used by `multiprocessing.BaseManager` and its sub-classes normally only expose methods from the objects they're referring to, not attributes.
 
