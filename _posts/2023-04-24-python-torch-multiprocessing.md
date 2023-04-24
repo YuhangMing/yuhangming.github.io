@@ -32,6 +32,8 @@ categories: mix-posts
 
 The API is 100% compatible with the original module - it’s enough to change `import multiprocessing` to `import torch.multiprocessing` to have all the tensors sent through the queues or shared via other mechanisms, moved to shared memory.
 
+Check the pytorch practice [here](https://pytorch.org/docs/stable/notes/multiprocessing.html) for more details.
+
 # Thread vs. Process
 A process refers to a computer program. In Python a process is in fact one instance of the python interpreter that executes python instructinos (byte-code, not the code written in the program).
 
