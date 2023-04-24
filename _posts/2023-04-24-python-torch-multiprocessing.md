@@ -168,6 +168,16 @@ if __name__ == '__main__':
         p.join()
 ```
 
+`Lock()` vs. `RLock()`:
+
+The main difference is that a `Lock` can only be acquired once. It cannot be acquired again, until it is released. (After it's been released, it can be re-acaquired by any thread).
+
+An `RLock` on the other hand, can be acquired multiple times, by the same thread. It needs to be released the same number of times in order to be "unlocked".
+
+Another difference is that an acquired `Lock` can be released by any thread, while an acquired `RLock` can only be released by the thread which acquired it.
+
+An example can be found here: [stackoverflow](https://stackoverflow.com/questions/22885775/what-is-the-difference-between-lock-and-rlock).
+
 ## Share State between processes
 When donig concurrent programming, it is usually the best to avoid using shared state as far as possible. Especially when there are lots of processes.
 
