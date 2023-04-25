@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  SCI Journal List
-date:   2022-03-24 15:46:16
+date:   2023-03-24 15:46:16
 description: cheat sheet.
 tags: publication
 categories: mix-posts

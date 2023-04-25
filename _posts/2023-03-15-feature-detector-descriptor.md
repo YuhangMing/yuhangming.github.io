@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Feature Detector and Descriptor
-date:   2022-03-15 13:40:16
+date:   2023-03-15 13:40:16
 description: A review on common image features.
 tags: image_processing
 categories: research-posts
