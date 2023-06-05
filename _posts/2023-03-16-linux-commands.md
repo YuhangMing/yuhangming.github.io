@@ -9,6 +9,7 @@ categories: mix-posts
 
 # Table of Content
 - [Table of Content](#table-of-content)
+- [Zip](#zip)
 - [Copy](#copy)
   - [`cp`](#cp)
   - [`scp`](#scp)
@@ -18,6 +19,14 @@ categories: mix-posts
   - [`mkfs`](#mkfs)
     - [File systems](#file-systems)
   - [`mount`](#mount)
+
+# Zip
+
+create password protected zip file:
+`zip -e xxx.zip file1 file2 ...`
+
+To unzip:
+`unzip xxx.zip`s
 
 
 # Copy
