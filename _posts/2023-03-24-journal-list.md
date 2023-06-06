@@ -7,107 +7,6 @@ tags: publication
 categories: mix-posts
 ---
 
-# Table of Content
-- [Table of Content](#table-of-content)
-- [SCI vs. SCIE](#sci-vs-scie)
-- [Overview](#overview)
-- [Journal Details](#journal-details)
-  - [Neurocomputing](#neurocomputing)
-  - [IEEE Sensors Journal](#ieee-sensors-journal)
-  - [IEEE Transactions on Instrumentation and Measurement](#ieee-transactions-on-instrumentation-and-measurement)
-  - [Information Fusion](#information-fusion)
-  - [Pattern Recognition](#pattern-recognition)
-  - [Decision Support Systems](#decision-support-systems)
-  - [Nature Machine Intelligence](#nature-machine-intelligence)
-  - [IEEE Transactions on Cybernetics](#ieee-transactions-on-cybernetics)
-  - [IEEE Transactions on Image Processing](#ieee-transactions-on-image-processing)
-  - [IEEE Computational Intelligence Magazine](#ieee-computational-intelligence-magazine)
-  - [IEEE Transactions on Evolutionary Computation](#ieee-transactions-on-evolutionary-computation)
-  - [IEEE Transactions on Neural Networks and Learning Systems](#ieee-transactions-on-neural-networks-and-learning-systems)
-  - [IEEE Transactions on Pattern Analysis and Machine Intelligence](#ieee-transactions-on-pattern-analysis-and-machine-intelligence)
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [International Journal on Computer Vision](#international-journal-on-computer-vision)
-  - [International Journal of Neural Systems](#international-journal-of-neural-systems)
-  - [International Journal of Intelligence Systems](#international-journal-of-intelligence-systems)
-  - [Engineering Applications of Artificial Intelligence](#engineering-applications-of-artificial-intelligence)
-  - [Artificial Intelligence Review](#artificial-intelligence-review)
-  - [Integrated Computer-Aided Engineering](#integrated-computer-aided-engineering)
-  - [International Journal of Approximate Reasoning](#international-journal-of-approximate-reasoning)
-  - [Complex and Intelligent Systems](#complex-and-intelligent-systems)
-  - [Machine Learning](#machine-learning)
-  - [Minds and Machines](#minds-and-machines)
-  - [IEEE Intelligent Systems](#ieee-intelligent-systems)
-  - [Image and Vision Computing](#image-and-vision-computing)
-  - [Pattern Recognition Letters](#pattern-recognition-letters)
-  - [Journal of Machine Learning Research](#journal-of-machine-learning-research)
-  - [Computer Vision and Image Understanding](#computer-vision-and-image-understanding)
-  - [Journal of Intelligent Information Systems](#journal-of-intelligent-information-systems)
-  - [Journal of Artificial Intelligence Research](#journal-of-artificial-intelligence-research)
-  - [ACM Transactions on Intelligent Systems and Technology](#acm-transactions-on-intelligent-systems-and-technology)
-  - [International Journal of Machine Learning and Cybernetics](#international-journal-of-machine-learning-and-cybernetics)
-  - [Neural Computing and Applications](#neural-computing-and-applications)
-  - [IEEE Transactions on Human-Machine Systems](#ieee-transactions-on-human-machine-systems)
-  - [ACM Transactions on Graphics](#acm-transactions-on-graphics)
-  - [IEEE Transactions on Visualization and Computer Graphics](#ieee-transactions-on-visualization-and-computer-graphics)
-  - [IEEE Transactions on Multimedia](#ieee-transactions-on-multimedia)
-  - [Tsinghua Science and Technology](#tsinghua-science-and-technology)
-  - [Computational Visual Media](#computational-visual-media)
-  - [Visual Computer](#visual-computer)
-  - [Virtual Reality](#virtual-reality)
-  - [Image and Visual Computing](#image-and-visual-computing)
-  - [Journal of Computer Science and Technology](#journal-of-computer-science-and-technology)
-  - [Journal of Visual Communication and Image Representation](#journal-of-visual-communication-and-image-representation)
-  - [IEEE Multimedia](#ieee-multimedia)
-  - [ACM Transactions on Applied Perception](#acm-transactions-on-applied-perception)
-  - [IEEE Computer Graphics and Applications](#ieee-computer-graphics-and-applications)
-  - [ACM Transactions on Multimedia Computing Communications and Applications](#acm-transactions-on-multimedia-computing-communications-and-applications)
-  - [Computers and Graphics-UK](#computers-and-graphics-uk)
-  - [Computer Graphics Forum](#computer-graphics-forum)
-  - [Robotica](#robotica)
-  - [Mechatronics](#mechatronics)
-  - [Science Robotics](#science-robotics)
-  - [Advanced Robotics](#advanced-robotics)
-  - [Autonomous Robots](#autonomous-robots)
-  - [Journal of Field Robotics](#journal-of-field-robotics)
-  - [Bioinspiration and Biomimetics](#bioinspiration-and-biomimetics)
-  - [Intelligent Service Robotics](#intelligent-service-robotics)
-  - [IEEE Transactions on Robotics](#ieee-transactions-on-robotics)
-  - [Robotics and Autonomous Systems](#robotics-and-autonomous-systems)
-  - [Applied Bionics and Biomechanics](#applied-bionics-and-biomechanics)
-  - [IEEE Robotics and Automation Magazine](#ieee-robotics-and-automation-magazine)
-  - [IEEE Robotics and Automation Letter](#ieee-robotics-and-automation-letter)
-  - [Journal of Intelligent and Robotic Systems](#journal-of-intelligent-and-robotic-systems)
-  - [International Journal of Robotics Research](#international-journal-of-robotics-research)
-  - [International Journal of Robotics and Automation](#international-journal-of-robotics-and-automation)
-  - [Annual Review of Control Robotics and Autonomous Systems](#annual-review-of-control-robotics-and-autonomous-systems)
-  - [Robotics and Computer-Integrated Manufacturing](#robotics-and-computer-integrated-manufacturing)
-  - [International Journal of Advanced Robotic Systems](#international-journal-of-advanced-robotic-systems)
-  - [Industrial Robot-The International Journal of Robotics Research and Application](#industrial-robot-the-international-journal-of-robotics-research-and-application)
-  - [Neural Networks](#neural-networks)
-  - [Neural Computation](#neural-computation)
-  - [Cognitive Computation](#cognitive-computation)
-  - [Frontiers in Neurorobotics](#frontiers-in-neurorobotics)
-  - [Network-Computation in Neural Systems](#network-computation-in-neural-systems)
-  - [IEEE Transactions on Cognitive and Developmental Systems](#ieee-transactions-on-cognitive-and-developmental-systems)
-  - [Autonomous Agents and Multi-Agent Systems](#autonomous-agents-and-multi-agent-systems)
-  - [ACM Transactions on Autonomous and Adaptive Systems](#acm-transactions-on-autonomous-and-adaptive-systems)
-  - [Natural Computing](#natural-computing)
-  - [IET Image Processing](#iet-image-processing)
-  - [Neural Processing Letters](#neural-processing-letters)
-  - [Computational Intelligence](#computational-intelligence)
-  - [Pattern Analysis and Applications](#pattern-analysis-and-applications)
-  - [International Journal on Document Analysis and Recognition](#international-journal-on-document-analysis-and-recognition)
-  - [International Journal of Pattern Recognition and Artificial Intelligence](#international-journal-of-pattern-recognition-and-artificial-intelligence)
-  - [International Journal of Bio-Inspired Computation](#international-journal-of-bio-inspired-computation)
-  - [AI Magazine](#ai-magazine)
-  - [Neural Network World](#neural-network-world)
-  - [Applied Artificial Intelligence](#applied-artificial-intelligence)
-  - [Machine Vision and Application](#machine-vision-and-application)
-  - [International Journal of Computational Intelligence Systems](#international-journal-of-computational-intelligence-systems)
-- [test](#test)
-- [Advanced Engineering Informatics](#advanced-engineering-informatics)
-
-
 # SCI vs. SCIE
 [2020年1月起，SCI的叫法不再使用，统一归为SCIE。](https://support.clarivate.com/ScientificandAcademicResearch/s/article/Web-of-Science-Core-Collection%E6%A0%B8%E5%BF%83%E5%90%88%E9%9B%86%E6%9C%89%E5%85%B3-SCI%E5%92%8CSCIE%E5%8C%BA%E5%88%AB%E8%AF%B4%E6%98%8E?language=zh_CN)
 
@@ -132,74 +31,71 @@ Automation & Control Systems
 | Journal Name | 中科院分区 | CCF分类 | 学科 | Ref |
 | ------------ | -------- | ------ | ---- | --- |
 | <mark>POTENT-Robotics</mark> | | | | |
-| [**International Journal of Intelligence Systems**](#international-journal-of-intelligence-systems) | 2区-1区（Top） | C类 | CS: Artificial Intelligence |容易（425） |
-| [**Engineering Applications of Artificial Intelligence**](#engineering-applications-of-artificial-intelligence) | 2区（Top）-2区 | C类 | CS: Artificial Intelligence |容易（411） |
-| [Complex and Intelligent Systems](#complex-and-intelligent-systems) | 2区 | - | CS: Artificial Intelligence |一般 |
-| [**IEEE Robotics and Automation Letter**](#ieee-robotics-and-automation-letter) | 2区-3区 | - | CS: Robotics |-（1107） |
-| [*IEEE Transactions on Instrumentation and Measurement*](#ieee-transactions-on-instrumentation-and-measurement) | 2区-3区 | - | Engineering: Electrical & Electronic |~25%（1714） |
-| [Journal of Field Robotics](#journal-of-field-robotics) | 2区-3区 | - | CS: Robotics |较易 |
-| [**Robotics and Autonomous Systems**](#robotics-and-autonomous-systems) | 3区 | - | CS: Robotics/Artificial Intelligence |容易 |
-| [*Autonomous Robots*](#autonomous-robots) | 3区 | - | CS: Robotics/Artificial Intelligence |较易 |
-| [IEEE Intelligent Systems](#ieee-intelligent-systems) | 3区 | - | CS: Artificial Intelligence |较易 |
-| [ACM Transactions on Intelligent Systems and Technology](#acm-transactions-on-intelligent-systems-and-technology) | 3区 | - | CS: Artificial Intelligence |- |
-| [**Journal of Intelligent and Robotic Systems**](#journal-of-intelligent-and-robotic-systems) | 3区-4区 | - | CS: Robotics/Artificial Intelligence |容易 |
-| [*Robotica*](#robotica) | 3区-4区 | - | CS: Robotics |容易 |
-| [Autonomous Agents and Multi-Agent Systems](#autonomous-agents-and-multi-agent-systems) | 4区 | B类 | CS: Artificial Intelligence |容易 |
-| [ACM Transactions on Autonomous and Adaptive Systems](#acm-transactions-on-autonomous-and-adaptive-systems) | 4区 | B类 | CS: Artificial Intelligence |容易 |
+| [*Engineering Applications of Artificial Intelligence*](#engineering-applications-of-artificial-intelligence) | 1区(Top) | C类 | CS: Artificial Intelligence |容易 (411) |
+| [**International Journal of Intelligence Systems**](#international-journal-of-intelligence-systems) | 2区 | C类 | CS: Artificial Intelligence |容易 (425) |
+| [Complex and Intelligent Systems](#complex-and-intelligent-systems) | 2区 | - | CS: Artificial Intelligence |一般 (362) |
+| [**IEEE Robotics and Automation Letter**](#ieee-robotics-and-automation-letter) | 2区 | - | CS: Robotics |- (1107) |
+| [*IEEE Transactions on Instrumentation and Measurement*](#ieee-transactions-on-instrumentation-and-measurement) | 2区 | - | Engineering: Electrical & Electronic |~25% (1714) |
+| [Journal of Field Robotics](#journal-of-field-robotics) | 2区 | - | CS: Robotics |较易 (43) |
+| [**Robotics and Autonomous Systems**](#robotics-and-autonomous-systems) | 3区 | - | CS: Robotics/Artificial Intelligence |容易 (161) |
+| [*Autonomous Robots (AuRo)*](#autonomous-robots) | 3区 | - | CS: Robotics/Artificial Intelligence |较易 (69) |
+| [IEEE Intelligent Systems](#ieee-intelligent-systems) | 3区 | - | CS: Artificial Intelligence |较易 (66) |
+| [ACM Transactions on Intelligent Systems and Technology](#acm-transactions-on-intelligent-systems-and-technology) | 3区 | - | CS: Artificial Intelligence |- (81) |
+| [**Journal of Intelligent and Robotic Systems (JINT)**](#journal-of-intelligent-and-robotic-systems) | 3区 | - | CS: Robotics/Artificial Intelligence |容易 (233) |
+| [Autonomous Agents and Multi-Agent Systems](#autonomous-agents-and-multi-agent-systems) | 3区 | B类 | CS: Artificial Intelligence |容易 (44) |
+| [*Robotica*](#robotica) | 4区 | - | CS: Robotics |容易 (144) |
+| [ACM Transactions on Autonomous and Adaptive Systems](#acm-transactions-on-autonomous-and-adaptive-systems) | 4区 | B类 | CS: Artificial Intelligence |容易 (7) |
 
 
 | ------------ | -------- | ------ | ---- | --- |
 | <mark>POTENT-CV/CG</mark> | | | | |
-| [**Computational Visual Media**](#computational-visual-media) | 2区 | C类 | CS: Software Engineering |- |
-| [**Computer Vision and Image Understanding**](#computer-vision-and-image-understanding) | 3区 | B类 | CS: Artifiial Intelligence |容易 |
-| [Journal of Visual Communication and Image Representation](#journal-of-visual-communication-and-image-representation) | 3区 | C类 | CS: Software Engineering |容易 |
-| [Image and Vision Computing](#image-and-vision-computing) | 3区 | C类 | CS: Artificial Intelligence |~20% |
-| [**Virtual Reality**](#virtual-reality) | 3区 | - | CS: Software Engineering/Imaging Science & Photographic Technology |容易 |
-| [*Image and Visual Computing*](#image-and-visual-computing) | 3区 | - | CS: Software Engineering |~20% |
-| [**Visual Computer**](#visual-computer) | 3区-4区 | C类 | CS: Software Engineering |容易 |
-| [Computer Graphics Forum](#computer-graphics-forum) | 4区 | B类 | CS: Software Engineering |容易 |
-| [Computers and Graphics-UK](#computers-and-graphics-uk) | 4区 | C类 | CS: Software Engineering |容易 |
-| [IET Image Processing](#iet-image-processing) | 4区 | C类 | CS: Artificial Intelligence/Imaging Science & Photographic Technology / Engineering: Electrical & Electronic |容易 |
+| [**Computational Visual Media**](#computational-visual-media) | 2区 | C类 | CS: Software Engineering |- (34) |
+| [Image and Vision Computing](#image-and-vision-computing) | 2区 | C类 | CS: Artificial Intelligence |~20% (148) |
+| [**Computer Vision and Image Understanding**](#computer-vision-and-image-understanding) | 3区 | B类 | CS: Artifiial Intelligence |容易 (107) |
+| [Journal of Visual Communication and Image Representation](#journal-of-visual-communication-and-image-representation) | 3区 | C类 | CS: Software Engineering |容易 (233) |
+| [**Visual Computer**](#visual-computer) | 3区 | C类 | CS: Software Engineering |容易 (304) |
+| [Virtual Reality](#virtual-reality) | 3区 | - | CS: Software Engineering/Imaging Science & Photographic Technology |容易 (116) |
+| [Computers and Graphics-UK](#computers-and-graphics-uk) | 3区 | C类 | CS: Software Engineering |容易 (137) |
+| [Computer Graphics Forum](#computer-graphics-forum) | 4区 | B类 | CS: Software Engineering |容易 (224) |
+| [IET Image Processing](#iet-image-processing) | 4区 | C类 | CS: Artificial Intelligence/Imaging Science & Photographic Technology / Engineering: Electrical & Electronic |容易 (302) |
 
 
 | ------------ | -------- | ------ | ---- | --- |
 | <mark>POTENT-PR/ML/AI</mark> | | | | |
-| [**Pattern Recognition**](#pattern-recognition) | 1区 (Top)-2区 | B类 | CS: Artificial Intelligence |较易（742） |
-| [**Artificial Intelligence Review**](#artificial-intelligence-review) | 2区 | - | CS: Artificial Intelligence |66%（171） |
+| [**Pattern Recognition**](#pattern-recognition) | 1区 (Top) | B类 | CS: Artificial Intelligence |较易 (742) |
+| [*Artificial Intelligence Review*](#artificial-intelligence-review) | 2区 | - | CS: Artificial Intelligence |66% (171) |
 | [Artificial Intelligence](#artificial-intelligence) | 2区 | A类 | CS: Artificial Intelligence |较易（130） |
-| [Machine Learning](#machine-learning) | 3区 | B类 | CS: Artificial Intelligence |容易 |
-| [Pattern Recognition Letters](#pattern-recognition-letters) | 3区 | C类 | CS: Artificial Intelligence |~25% |
-| [International Journal of Machine Learning and Cybernetics](#international-journal-of-machine-learning-and-cybernetics) | 3区 | - | CS: Artificial Intelligence |- |
-| [Journal of Artificial Intelligence Research](#journal-of-artificial-intelligence-research) | 3区-4区 | - | CS: Artificial Intelligence |容易 |
-| [Minds and Machines](#minds-and-machines) | 3区-4区 | - | CS: Artificial Intelligence |容易 |
-| [ACM Transactions on Applied Perception](#acm-transactions-on-applied-perception) | 4区 | B类 | CS: Software Engineering |容易 |
-| [Pattern Analysis and Applications](#pattern-analysis-and-applications) | 4区 | C类 | CS: Artificial Intelligence |容易 |
-| [International Journal of Pattern Recognition and Artificial Intelligence](#international-journal-of-pattern-recognition-and-artificial-intelligence) | 4区 | C类 | CS: Artificial Intelligence |容易 |
+| [Machine Learning](#machine-learning) | 3区 | B类 | CS: Artificial Intelligence |容易 (159) |
+| [Pattern Recognition Letters](#pattern-recognition-letters) | 3区 | C类 | CS: Artificial Intelligence |~25% (364) |
+| [International Journal of Machine Learning and Cybernetics](#international-journal-of-machine-learning-and-cybernetics) | 3区 | - | CS: Artificial Intelligence |- (234) |
+| [Journal of Artificial Intelligence Research](#journal-of-artificial-intelligence-research) | 3区 | - | CS: Artificial Intelligence |容易 (85) |
+| [Minds and Machines](#minds-and-machines) | 3区 | - | CS: Artificial Intelligence |容易 (24) |
+| [ACM Transactions on Applied Perception](#acm-transactions-on-applied-perception) | 4区 | B类 | CS: Software Engineering |容易 (21) |
+| [Pattern Analysis and Applications](#pattern-analysis-and-applications) | 4区 | C类 | CS: Artificial Intelligence |容易 (90) |
+| [International Journal of Pattern Recognition and Artificial Intelligence](#international-journal-of-pattern-recognition-and-artificial-intelligence) | 4区 | C类 | CS: Artificial Intelligence |容易 (221) |
 
 
 | ------------ | -------- | ------ | ---- | --- |
 | <mark>POTENT-Others</mark> | | | | |
-| [IEEE Transactions on Neural Networks and Learning Systems](#ieee-transactions-on-neural-networks-and-learning-systems) | 1区 (TOP) | B类 | CS: Artificial Intelligence |-（1403） |
-| [Neural Networks](#neural-networks) | 1区 (Top)-2区 | B类 | CS: Artificial Intelligence/Neurosciences |较易 |
-| [**Neurocomputing**](#neurocomputing) | 2区（Top）-2区 | C类 | CS: Artificial Intelligence |80%（1801） |
-| [Cognitive Computation](#cognitive-computation) | 2区 | - | CS: Artificial Intelligence/Neurosciences |容易 |
-| [International Journal of Neural Systems](#international-journal-of-neural-systems) | 2区 | C类 | CS: Artificial Intelligence |一般 |
-| [Integrated Computer-Aided Engineering](#integrated-computer-aided-engineering) | 2区 | - | CS: Artificial Intelligence |一般 |
-
-| [**IEEE Sensors Journal**](#ieee-sensors-journal) | 2区（Top）-3区 | - | Engineering: Electrical & Electronic |容易（2808） |
-| [International Journal of Approximate Reasoning](#international-journal-of-approximate-reasoning) | 2区-3区 |  B类 | CS: Artificial Intelligence |一般（142） |
-| [Tsinghua Science and Technology](#tsinghua-science-and-technology) | 2区-3区 | - | CS: Software Engineering |- |
-| [Neural Computing and Applications](#neural-computing-and-applications) | 3区-2区 | C类 | CS: Artificial Intelligence |50%（1111） |
-| [Journal of Computer Science and Technology](#journal-of-computer-science-and-technology) | 3区-2区 | - | CS: Software Engineering |～66% |
-
-| [ACM Transactions on Multimedia Computing Communications and Applications](#acm-transactions-on-multimedia-computing-communications-and-applications) | 3区 | B类 | CS: Software Engineering |容易 |
-| [**IEEE Transactions on Cognitive and Developmental Systems**](#ieee-transactions-on-cognitive-and-developmental-systems) | 3区 | - | CS: Robotics/Neurosciences/Artificial Intelligence |- |
-| [Journal of Intelligent Information Systems](#journal-of-intelligent-information-systems) | 3区-4区 | C类 | CS: Artificial Intelligence |容易 |
-| [Neural Computation](#neural-computation) | 4区 | B类 | CS: Neurosciences |较易 |
-| [IEEE Multimedia](#ieee-multimedia) | 4区-2区 | - | CS: Software Engineering |容易 |
-| [Neural Processing Letters](#neural-processing-letters) | 4区-3区 | C类 | CS: Artificial Intelligence |容易 |
-| [Natural Computing](#natural-computing) | 4区 | C类 | CS: Artificial Intelligence |容易 |
-| [Computational Intelligence](#computational-intelligence) | 4区 | C类 | CS: Artificial Intelligence |容易 |
+| [IEEE Transactions on Neural Networks and Learning Systems](#ieee-transactions-on-neural-networks-and-learning-systems) | 1区 (TOP) | B类 | CS: Artificial Intelligence |- (1403) |
+| [Integrated Computer-Aided Engineering](#integrated-computer-aided-engineering) | 1区 | - | CS: Artificial Intelligence |一般 (24) |
+| [Neural Networks](#neural-networks) | 2区 (Top) | B类 | CS: Artificial Intelligence/Neurosciences |较易 (418) |
+| [**Neurocomputing**](#neurocomputing) | 2区 (Top) | C类 | CS: Artificial Intelligence |80% (1801) |
+| [*IEEE Sensors Journal*](#ieee-sensors-journal) | 2区 (Top) | - | Engineering: Electrical & Electronic |容易 (2808) |
+| [International Journal of Neural Systems](#international-journal-of-neural-systems) | 2区 | C类 | CS: Artificial Intelligence |一般 (67) |
+| [Tsinghua Science and Technology](#tsinghua-science-and-technology) | 2区 | - | CS: Software Engineering |- (77) |
+| [Cognitive Computation](#cognitive-computation) | 3区 | - | CS: Artificial Intelligence/Neurosciences |容易 (183) |
+| [International Journal of Approximate Reasoning](#international-journal-of-approximate-reasoning) | 3区 |  B类 | CS: Artificial Intelligence |一般 (142) |
+| [Neural Computing and Applications](#neural-computing-and-applications) | 3区 | C类 | CS: Artificial Intelligence |50%(1111) |
+| [Journal of Computer Science and Technology](#journal-of-computer-science-and-technology) | 3区 | - | CS: Software Engineering |～66% (86) |
+| [ACM Transactions on Multimedia Computing Communications and Applications](#acm-transactions-on-multimedia-computing-communications-and-applications) | 3区 | B类 | CS: Software Engineering |容易 (162) |
+| [**IEEE Transactions on Cognitive and Developmental Systems**](#ieee-transactions-on-cognitive-and-developmental-systems) | 3区 | - | CS: Robotics/Neurosciences/Artificial Intelligence |- (85) |
+| [Journal of Intelligent Information Systems](#journal-of-intelligent-information-systems) | 4区 | C类 | CS: Artificial Intelligence |容易 (54) |
+| [Neural Computation](#neural-computation) | 4区 | B类 | CS: Neurosciences |较易 (111) |
+| [IEEE Multimedia](#ieee-multimedia) | 4区 | - | CS: Software Engineering |容易 (44) |
+| [Neural Processing Letters](#neural-processing-letters) | 4区-3区 | C类 | CS: Artificial Intelligence |容易 (286) |
+| [Natural Computing](#natural-computing) | 4区 | C类 | CS: Artificial Intelligence |容易 (48) |
+| [Computational Intelligence](#computational-intelligence) | 4区 | C类 | CS: Artificial Intelligence |容易 (59) |
 
 
 
@@ -265,6 +161,106 @@ Automation & Control Systems
 
 | <mark>BLACK LIST</mark> | -------- | ------ | ---- | --- |
 | [Cybersecurity](https://www.letpub.com.cn/index.php?journalid=27319&page=journalapp&view=detail) | 4区-- | - | - | 此期刊未被最新的JCR期刊引证报告收录 |
+
+
+# Table of Content
+- [SCI vs. SCIE](#sci-vs-scie)
+- [Overview](#overview)
+- [Table of Content](#table-of-content)
+- [Journal Details](#journal-details)
+  - [Neurocomputing](#neurocomputing)
+  - [IEEE Sensors Journal](#ieee-sensors-journal)
+  - [IEEE Transactions on Instrumentation and Measurement](#ieee-transactions-on-instrumentation-and-measurement)
+  - [Information Fusion](#information-fusion)
+  - [Pattern Recognition](#pattern-recognition)
+  - [Decision Support Systems](#decision-support-systems)
+  - [Nature Machine Intelligence](#nature-machine-intelligence)
+  - [IEEE Transactions on Cybernetics](#ieee-transactions-on-cybernetics)
+  - [IEEE Transactions on Image Processing](#ieee-transactions-on-image-processing)
+  - [IEEE Computational Intelligence Magazine](#ieee-computational-intelligence-magazine)
+  - [IEEE Transactions on Evolutionary Computation](#ieee-transactions-on-evolutionary-computation)
+  - [IEEE Transactions on Neural Networks and Learning Systems](#ieee-transactions-on-neural-networks-and-learning-systems)
+  - [IEEE Transactions on Pattern Analysis and Machine Intelligence](#ieee-transactions-on-pattern-analysis-and-machine-intelligence)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [International Journal on Computer Vision](#international-journal-on-computer-vision)
+  - [International Journal of Neural Systems](#international-journal-of-neural-systems)
+  - [International Journal of Intelligence Systems](#international-journal-of-intelligence-systems)
+  - [Engineering Applications of Artificial Intelligence](#engineering-applications-of-artificial-intelligence)
+  - [Artificial Intelligence Review](#artificial-intelligence-review)
+  - [Integrated Computer-Aided Engineering](#integrated-computer-aided-engineering)
+  - [International Journal of Approximate Reasoning](#international-journal-of-approximate-reasoning)
+  - [Complex and Intelligent Systems](#complex-and-intelligent-systems)
+  - [Machine Learning](#machine-learning)
+  - [Minds and Machines](#minds-and-machines)
+  - [IEEE Intelligent Systems](#ieee-intelligent-systems)
+  - [Image and Vision Computing](#image-and-vision-computing)
+  - [Pattern Recognition Letters](#pattern-recognition-letters)
+  - [Journal of Machine Learning Research](#journal-of-machine-learning-research)
+  - [Computer Vision and Image Understanding](#computer-vision-and-image-understanding)
+  - [Journal of Intelligent Information Systems](#journal-of-intelligent-information-systems)
+  - [Journal of Artificial Intelligence Research](#journal-of-artificial-intelligence-research)
+  - [ACM Transactions on Intelligent Systems and Technology](#acm-transactions-on-intelligent-systems-and-technology)
+  - [International Journal of Machine Learning and Cybernetics](#international-journal-of-machine-learning-and-cybernetics)
+  - [Neural Computing and Applications](#neural-computing-and-applications)
+  - [IEEE Transactions on Human-Machine Systems](#ieee-transactions-on-human-machine-systems)
+  - [ACM Transactions on Graphics](#acm-transactions-on-graphics)
+  - [IEEE Transactions on Visualization and Computer Graphics](#ieee-transactions-on-visualization-and-computer-graphics)
+  - [IEEE Transactions on Multimedia](#ieee-transactions-on-multimedia)
+  - [Tsinghua Science and Technology](#tsinghua-science-and-technology)
+  - [Computational Visual Media](#computational-visual-media)
+  - [Visual Computer](#visual-computer)
+  - [Virtual Reality](#virtual-reality)
+  - [Journal of Computer Science and Technology](#journal-of-computer-science-and-technology)
+  - [Journal of Visual Communication and Image Representation](#journal-of-visual-communication-and-image-representation)
+  - [IEEE Multimedia](#ieee-multimedia)
+  - [ACM Transactions on Applied Perception](#acm-transactions-on-applied-perception)
+  - [IEEE Computer Graphics and Applications](#ieee-computer-graphics-and-applications)
+  - [ACM Transactions on Multimedia Computing Communications and Applications](#acm-transactions-on-multimedia-computing-communications-and-applications)
+  - [Computers and Graphics-UK](#computers-and-graphics-uk)
+  - [Computer Graphics Forum](#computer-graphics-forum)
+  - [Robotica](#robotica)
+  - [Mechatronics](#mechatronics)
+  - [Science Robotics](#science-robotics)
+  - [Advanced Robotics](#advanced-robotics)
+  - [Autonomous Robots](#autonomous-robots)
+  - [Journal of Field Robotics](#journal-of-field-robotics)
+  - [Bioinspiration and Biomimetics](#bioinspiration-and-biomimetics)
+  - [Intelligent Service Robotics](#intelligent-service-robotics)
+  - [IEEE Transactions on Robotics](#ieee-transactions-on-robotics)
+  - [Robotics and Autonomous Systems](#robotics-and-autonomous-systems)
+  - [Applied Bionics and Biomechanics](#applied-bionics-and-biomechanics)
+  - [IEEE Robotics and Automation Magazine](#ieee-robotics-and-automation-magazine)
+  - [IEEE Robotics and Automation Letter](#ieee-robotics-and-automation-letter)
+  - [Journal of Intelligent and Robotic Systems](#journal-of-intelligent-and-robotic-systems)
+  - [International Journal of Robotics Research](#international-journal-of-robotics-research)
+  - [International Journal of Robotics and Automation](#international-journal-of-robotics-and-automation)
+  - [Annual Review of Control Robotics and Autonomous Systems](#annual-review-of-control-robotics-and-autonomous-systems)
+  - [Robotics and Computer-Integrated Manufacturing](#robotics-and-computer-integrated-manufacturing)
+  - [International Journal of Advanced Robotic Systems](#international-journal-of-advanced-robotic-systems)
+  - [Industrial Robot-The International Journal of Robotics Research and Application](#industrial-robot-the-international-journal-of-robotics-research-and-application)
+  - [Neural Networks](#neural-networks)
+  - [Neural Computation](#neural-computation)
+  - [Cognitive Computation](#cognitive-computation)
+  - [Frontiers in Neurorobotics](#frontiers-in-neurorobotics)
+  - [Network-Computation in Neural Systems](#network-computation-in-neural-systems)
+  - [IEEE Transactions on Cognitive and Developmental Systems](#ieee-transactions-on-cognitive-and-developmental-systems)
+  - [Autonomous Agents and Multi-Agent Systems](#autonomous-agents-and-multi-agent-systems)
+  - [ACM Transactions on Autonomous and Adaptive Systems](#acm-transactions-on-autonomous-and-adaptive-systems)
+  - [Natural Computing](#natural-computing)
+  - [IET Image Processing](#iet-image-processing)
+  - [Neural Processing Letters](#neural-processing-letters)
+  - [Computational Intelligence](#computational-intelligence)
+  - [Pattern Analysis and Applications](#pattern-analysis-and-applications)
+  - [International Journal on Document Analysis and Recognition](#international-journal-on-document-analysis-and-recognition)
+  - [International Journal of Pattern Recognition and Artificial Intelligence](#international-journal-of-pattern-recognition-and-artificial-intelligence)
+  - [International Journal of Bio-Inspired Computation](#international-journal-of-bio-inspired-computation)
+  - [AI Magazine](#ai-magazine)
+  - [Neural Network World](#neural-network-world)
+  - [Applied Artificial Intelligence](#applied-artificial-intelligence)
+  - [Machine Vision and Application](#machine-vision-and-application)
+  - [International Journal of Computational Intelligence Systems](#international-journal-of-computational-intelligence-systems)
+- [test](#test)
+- [Advanced Engineering Informatics](#advanced-engineering-informatics)
 
 
 # Journal Details
@@ -561,7 +557,7 @@ SCIE收录；审稿平均9.7周；容易。
 ## Artificial Intelligence Review
 学科：CS - Artificial Intelligence
 
-Website: [description](), [submission](), [letpub]().
+Website: [description](), [submission](), [letpub](https://www.letpub.com.cn/index.php?journalid=894&page=journalapp&view=detail).
 
 出版商：Springer Netherlands; 出版周期：Bimonthly; 年文章数：171。
 
@@ -609,7 +605,7 @@ SCIE收录；审稿平均12.3周；～25%。
 ## Complex and Intelligent Systems
 学科：CS - Artificial Intelligence
 
-Website: [description](https://www.springer.com/40747), [submission](https://www.editorialmanager.com/cais), [letpub](Springer International Publishing).
+Website: [description](https://www.springer.com/40747), [submission](https://www.editorialmanager.com/cais), [letpub](http://www.letpub.com.cn/index.php?journalid=10943&page=journalapp&view=detail).
 
 出版商：Springer International Publishing; 出版周期：Quarterley; 年文章数：362。
 
@@ -942,22 +938,6 @@ IF: 4.697; h-index: 37。
 
 SCIE收录；审稿~12周；容易。
 
-## Image and Visual Computing
-学科：CS - Software Engineering
-
-Website: [description](http://www.journals.elsevier.com/image-and-vision-computing/), [submission](https://www.editorialmanager.com/IMAVIS), [letpub](https://www.letpub.com.cn/index.php?journalid=3471&page=journalapp&view=detail).
-
-出版商：Elsevier; 出版周期：Monthly; 年文章数：148。
-
-|中科院分区 | | |CCF分类 | |
-| ------------ | ------------- | --- | --- | |
-|2022年12月升级版 |3区（计算机科学）|- |第五版 |- |
-|2021年12月基础版 |3区（工程技术） |- |第四版 |- |
-
-IF: 3.860; h-index: 118。
-
-SCIE收录；审稿平均17.8周；～20%。
-
 ## Journal of Computer Science and Technology
 学科：CS - Software Engineering
 
@@ -1009,7 +989,7 @@ SCIE收录；审稿~12周；容易。
 ## ACM Transactions on Applied Perception
 学科：CS - Software Engineering
 
-Website: [description](), [submission](), [letpub]().
+Website: [description](), [submission](), [letpub](https://www.letpub.com.cn/index.php?journalid=23&page=journalapp&view=detail).
 
 出版商：ACM; 出版周期：Quarterly; 年文章数：21。
 
@@ -1530,12 +1510,12 @@ SCIE收录；审稿-周；-。
 ## Neural Processing Letters
 学科：CS - Artificial Intelligence
 
-[letpub](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail).
+[letpub](https://www.letpub.com.cn/index.php?journalid=6128&page=journalapp&view=detail).
 
 ## Computational Intelligence
 学科：CS - Artificial Intelligence
 
-[letpub](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail).
+[letpub](https://www.letpub.com.cn/index.php?journalid=1968&page=journalapp&view=detail).
 
 ## Pattern Analysis and Applications
 学科：CS - Artificial Intelligence
