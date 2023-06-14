@@ -42,7 +42,7 @@ Memory: 16GB
 # Ubuntu
 * Ubuntu+Windows双系统安装时怎么分配空间
   1. 下载Ubuntu 20.04.2镜像 [here](https://ubuntu.com/download/desktop);
-  2. 在Windows下使用[rufus](https://rufus.ie/)制作ubuntu安装盘;
+  2. 在Windows下使用[rufus](https://rufus.ie/)/在Mac下使用[Terminal](https://wangchujiang.com/handbook/CentOS/Mac%E4%B8%8B%E5%88%B6%E4%BD%9CCentOS7%E5%90%AF%E5%8A%A8%E7%9B%98.html)制作ubuntu安装盘; 
   3. 在"磁盘管理"中空出相应磁盘空间c
   4. 重启，按F2进入BIOS，选择Boot from USB;
   5. 按提示菜单安装Ubuntu（国内建议选择Minimal Installation并起【不要】选择Download updates during Installation）;
