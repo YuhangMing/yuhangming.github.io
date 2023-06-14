@@ -10,6 +10,9 @@ categories: mix-posts
 # SCI vs. SCIE
 [2020年1月起，SCI的叫法不再使用，统一归为SCIE。](https://support.clarivate.com/ScientificandAcademicResearch/s/article/Web-of-Science-Core-Collection%E6%A0%B8%E5%BF%83%E5%90%88%E9%9B%86%E6%9C%89%E5%85%B3-SCI%E5%92%8CSCIE%E5%8C%BA%E5%88%AB%E8%AF%B4%E6%98%8E?language=zh_CN)
 
+# preprint policies
+[Elsevier Journals](https://www.elsevier.com/about/policies/sharing); [Springer Journals](https://www.springer.com/gp/editorial-policies/preprint-sharing), [Springer OA](https://www.springer.com/gp/open-access/preprint-sharing/16718886#:~:text=Posting%20of%20preprints%20is%20not,consideration%20at%20a%20Springer%20journal.).
+
 
 # Overview
 
@@ -165,6 +168,7 @@ Automation & Control Systems
 
 # Table of Content
 - [SCI vs. SCIE](#sci-vs-scie)
+- [preprint policies](#preprint-policies)
 - [Overview](#overview)
 - [Table of Content](#table-of-content)
 - [Journal Details](#journal-details)
@@ -268,7 +272,7 @@ Automation & Control Systems
 ## Neurocomputing
 学科：CS - Artificial Intelligence
 
-Website: [description](http://www.elsevier.com/wps/find/journaldescription.cws_home/505628/description), [submission](https://www.editorialmanager.com/NEUCOM), [letpub](https://www.letpub.com.cn/index.php?journalid=6141&page=journalapp&view=detail), [preprint policy](https://www.elsevier.com/about/policies/sharing).
+Website: [description](http://www.elsevier.com/wps/find/journaldescription.cws_home/505628/description), [submission](https://www.editorialmanager.com/NEUCOM), [letpub](https://www.letpub.com.cn/index.php?journalid=6141&page=journalapp&view=detail).
 
 出版商：Elsevier; 出版周期：Bimonthly; 年文章数：1801。
 
