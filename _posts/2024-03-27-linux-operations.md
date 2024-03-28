@@ -20,7 +20,6 @@ categories: mix-posts
     - [File systems](#file-systems)
   - [`mount`](#mount)
 - [Add Storage/Disk to the System](#add-storagedisk-to-the-system)
-  - [Check the new disk](#check-the-new-disk)
 
 # Zip
 
@@ -107,7 +106,6 @@ To unmount a device, run `umount device`.
 
 # Add Storage/Disk to the System
 
-## Check the new disk
 1. Run `lsblk` or `fdisk -l` to check the new disk. It should be listed as `/dev/sdX` where `X` is a letter.
 2. Partition the target disk using `fdisk /dev/sdX`. 
    1. If it is a used disk, delete all existing partitions by pressing `d` and then the partition number. Repeat this step for all partitions.  
@@ -120,9 +118,9 @@ To unmount a device, run `umount device`.
 5. Mount the new disk with `mount -t ext4 /dev/sdXi /mnt/disk1`.
 6. Double check the directory with `df -h`.
 OPtional Extra Steps:
-7. Check ownership and permission with `ls -l`.
-8. Change ownership with `sudo chown –R user:user /mnt/disk1`.
-9. Change permission with `chmod +w /mnt/disk1` for users, `sudo chmod +x /mnt/disk1` for root.
+1. Check ownership and permission with `ls -l`.
+2. Change ownership with `sudo chown –R user:user /mnt/disk1`.
+3. Change permission with `chmod +w /mnt/disk1` for users, `sudo chmod +x /mnt/disk1` for root.
 
 [Back to Top](#table-of-content)
 
