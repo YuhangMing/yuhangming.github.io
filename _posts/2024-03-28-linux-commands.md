@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Linux command mix
-date:   2023-03-16 12:40:16
+date:   2024-03-28 11:10:16
 description: cheat sheet.
 tags: linux
 categories: mix-posts
@@ -19,6 +19,8 @@ categories: mix-posts
   - [`mkfs`](#mkfs)
     - [File systems](#file-systems)
   - [`mount`](#mount)
+- [Add Storage/Disk to the System](#add-storagedisk-to-the-system)
+  - [Check the new disk](#check-the-new-disk)
 
 # Zip
 
@@ -100,6 +102,27 @@ For example, `sudo mkfs -t ext4 /dev/sdb1` to format it to ext4. Use `vfat` for 
 To mount a device, run `mount -t type device dir`. Commonly `device` is in `\dev` and the preferred mount point would be in `\usr\media\`. If the type is unknown, you can run with `mount -t auto device dir` or just `mount device dir`
 
 To unmount a device, run `umount device`.
+
+[Back to Top](#table-of-content)
+
+# Add Storage/Disk to the System
+
+## Check the new disk
+1. Run `lsblk` or `fdisk -l` to check the new disk. It should be listed as `/dev/sdX` where `X` is a letter.
+2. Partition the target disk using `fdisk /dev/sdX`. 
+   1. If it is a used disk, delete all existing partitions by pressing `d` and then the partition number. Repeat this step for all partitions.  
+   2. Create a new partition by pressing `n`, then select the partition type by pressing `p` for primary or `e` for extended. 
+   3. Choose the size (stratring & ending point) of the partition, press Enter for default. 
+   4. Press `w` to write the changes.
+3. Format the disk with `mkfs.ext4 /dev/sdX1` or `mkfs -t ext4 /dev/sdX1` where `X` is the disk letter and `1` is the partition number.
+   - If you run `mkfs.ext4 /dev/sdX`, you will lose the partition you just created. 
+4. Create a mount point with `mkdir /mnt/disk1` or any other name.
+5. Mount the new disk with `mount -t ext4 /dev/sdXi /mnt/disk1`.
+6. Double check the directory with `df -h`.
+OPtional Extra Steps:
+7. Check ownership and permission with `ls -l`.
+8. Change ownership with `sudo chown –R user:user /mnt/disk1`.
+9. Change permission with `chmod +w /mnt/disk1` for users, `sudo chmod +x /mnt/disk1` for root.
 
 [Back to Top](#table-of-content)
 
