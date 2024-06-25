@@ -58,6 +58,10 @@ layout: default
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
+          {% if page.services -%}
+          <!-- Services -->
+          {%- include services.html %}
+          {%- endif %}
           {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
