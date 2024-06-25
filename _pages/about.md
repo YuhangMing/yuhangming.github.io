@@ -7,13 +7,14 @@ subtitle: Slow is smooth, smooth is fast.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Hangzhou, China, 310018</p>
 # <p>555 your office number</p>
 # <p>123 your address street</p>
 
 news: true  # includes a list of news items
+# services: true # include a list of academic services
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
