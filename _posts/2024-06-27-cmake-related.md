@@ -3,7 +3,7 @@ layout: post
 title:  CMake Bugs
 date:   2024-06-27 11:10:16
 description: debugging notes.
-tags: linux, programming
+tags: env-setup
 categories: mix-posts
 ---
 

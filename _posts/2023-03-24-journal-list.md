@@ -3,7 +3,7 @@ layout: post
 title:  SCI Journal List
 date:   2023-03-24 15:46:16
 description: cheat sheet.
-tags: publication
+tags: cheat-sheet
 categories: mix-posts
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  Linux command mix
 date:   2024-03-28 11:10:16
 description: cheat sheet.
-tags: linux
+tags: cheat-sheet
 categories: mix-posts
 ---
 
