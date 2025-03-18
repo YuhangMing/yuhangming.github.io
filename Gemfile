@@ -22,4 +22,4 @@ group :other_plugins do
     gem 'feedjira'
 end
 
-gem 'uri', '~> 0.10.3' # Adjust the version to match the activated gem
+gem 'uri', '0.10.3' # Adjust the version to match the activated gem

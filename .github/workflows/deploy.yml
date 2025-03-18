@@ -21,6 +21,10 @@ jobs:
       with:
         ruby-version: '3.0.2'
         bundler-cache: true
+    - name: Install dependencies
+      run: |
+        gem uninstall -aIx uri # Uninstall any existing versions of the uri gem
+        bundle install
     - name: Install deps
       run: |
         npm install -g mermaid.cli
