@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-**Introduction to Computer Science**: Fall 2024;
+**Innovation Practice 1**——*Robot Visual Autonomous Localization*:  Fall 2025 (中文); 
+
+**Introduction to Computer Science**: Fall 2024, Fall 2025;
 
 **Introduction to Artificial Intelligence**: Fall 2024 (中文), Spring 2025;
 
