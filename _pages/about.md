@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer at the [School of Computer Science, Hangzhou Dianzi University](https://computer.hdu.edu.cn/main.htm). My research interests cover SLAM, RGB-D perception, 3-D vision, scene understanding, _etc._ 
+I am a Lecturer at the [School of Computer Science](https://https://cs.hdu.edu.cn/), Hangzhou Dianzi University, and a Postdoctoral Researcher at the [School of Artificial Intelligence](https://soai.sjtu.edu.cn/), Shanghai Jiao Tong University, supervised by [Prof. Cewu Lu](https://www.mvig.org/). My research interests cover SLAM, spatial perception, 3-D vision, _etc._ 
 
 I was previously a Ph.D. student at the [Visual Information Laboratory](https://vilab.blogs.bristol.ac.uk/), University of Bristol, supervised by [Prof. Andrew Calway](http://www.cs.bris.ac.uk/~andrew) and a visiting Ph.D. student at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), Zhejiang University, supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). I received my M.S. degree from [University of California, San Diego](https://www.ucsd.edu/), B.S. from [University of Missouri - Columbia](https://missouri.edu/) and B.Eng. from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
 
