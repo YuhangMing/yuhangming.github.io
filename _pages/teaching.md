@@ -9,13 +9,19 @@ nav_order: 5
 
 **Innovation Practice 1**——*Robot Visual Autonomous Localization*:  Fall 2025 (中文); 
 
+**Innovation Practice 2**——*Robot Visual Autonomous Localization*:  Spring 2026 (中文); 
+
 **Introduction to Computer Science**: Fall 2024, Fall 2025;
 
 **Introduction to Artificial Intelligence**: Fall 2024 (中文), Spring 2025;
 
+**Fundamentals of Artificial Intelligence**: Spring 2026;
+
 **Data Mining**: Fall 2024 (双语);
 
-**Linux Systems and Applications**: Spring 2025 (中文);
+**Linux Systems and Applications**: Spring 2025 (中文), Spring 2026 (中文);
+
+**Industrial Orientation**: Spring 2024, Spring 2025, Spring 2026;
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 

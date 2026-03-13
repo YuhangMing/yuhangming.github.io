@@ -5,8 +5,8 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Yuhang
 middle_name: 
-last_name: Ming
-email: yuhang.ming@hdu.edu.cn
+last_name: Ming (明煜航)
+email: yuhang.ming@ieee.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of my research projects.
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 **国家自然科学基金（青年）**，62401188，2025.01-2027.12，主持；
