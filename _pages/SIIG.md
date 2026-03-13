@@ -32,11 +32,11 @@ Our primary research areas focus on the intersection of spatial intelligence and
 …etc. -->
 
 ### Supporting Projects
- 1. 基于共享多任务低维隐码的空间人工智能系统空间感知能力研究，**国自然青年**，2025.01-2027.12，主持【<span style="color:red;">统一</span>、<span style="color:green;">通用</span>】；
- 2. 具备终生学习能力的机器人通用视觉自主定位技术研究，**浙江省自然青年项目**，2025.01-2026.12，主持【<span style="color:green;">通用</span>、<span style="color:blue;">鲁棒</span>】；
- 3. 视觉基础模型驱动的 3DGS 通用场景建模与多任务适配研究，**CAD&CG全重实验室开放课题**，2025.01-2026.12，主持【<span style="color:red;">统一</span>、<span style="color:green;">通用</span>】；
- 4. 面向封闭低光照环境的视-惯-热融合高斯溅射SLAM算法研究，**ICT全重实验室开放课题**，2025.01-2025.12，主持【<span style="color:blue;">鲁棒</span>】；
- 5. 医疗急救无人机在亚运医疗保障的应用，**杭州亚运会智能应用项目**，2022.04-2022.09，参与【<span style="color:blue;">鲁棒</span>】。
+ 1. 基于共享多任务低维隐码的空间人工智能系统空间感知能力研究，*国自然青年项目*，2025-2027【<span style="color:red;">统一</span>、<span style="color:green;">通用</span>】；
+ 2. 具备终生学习能力的机器人通用视觉自主定位技术研究，*浙江省自然青年项目*，2025-2026【<span style="color:green;">通用</span>、<span style="color:blue;">鲁棒</span>】；
+ 3. 视觉基础模型驱动的 3DGS 通用场景建模与多任务适配研究，*CAD&CG全重实验室开放课题*，2025-2026【<span style="color:red;">统一</span>、<span style="color:green;">通用</span>】；
+ 4. 面向封闭低光照环境的视-惯-热融合高斯溅射SLAM算法研究，*ICT全重实验室开放课题*，2025【<span style="color:blue;">鲁棒</span>】；
+ 5. 医疗急救无人机在亚运医疗保障的应用，*杭州亚运会智能应用项目*，2022【<span style="color:blue;">鲁棒</span>】。
 
 
 ### People
@@ -52,5 +52,4 @@ Our primary research areas focus on the intersection of spatial intelligence and
 
 ### Join Us
 
-We’re always looking for motivated students and collaborators.  
-Contact Dr. Ming at `yuhang.ming(at)hdu(dot)edu(dot)cn`.
+We’re always looking for motivated students and collaborators. Contact Dr. Ming at `yuhang.ming(at)hdu(dot)edu(dot)cn`.
