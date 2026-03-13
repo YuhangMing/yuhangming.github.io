@@ -2,6 +2,7 @@
 layout: page
 permalink: /siig/
 title: SIIG
+nav_title: group
 description: Spatial Intelligent and Interaction Group.
 nav: true
 nav_order: 2
@@ -9,9 +10,9 @@ nav_order: 2
 
 
 
-## About SIIG
+## About
 
-![SIIG Logo](/assets/img/siig.png)
+<img src="/assets/img/siig.png" alt="SIIG Logo" style="position:absolute; top:4.5rem; right:2rem; height:3rem; z-index:10;" />
 
 The **SIIG (Spatial Intelligent and Interaction Group)** is a research group under [Zhejiang Provincial Key Laboratory of BCCITA](https://research.hdu.edu.cn/2026/0311/c11945a290176/page.htm) and [Institute of Cognitive Computing and Intelligent Interaction](https://cs.hdu.edu.cn/12277/list.htm). 
 
@@ -19,7 +20,7 @@ Our primary research areas focus on the intersection of spatial intelligence and
 
 我们的主要研究方向聚焦空间智能与具身智能的交叉，围绕系统的**统一性**、**通用性**和**鲁棒性**这三个方面开展研究工作。主要研究方向包括 SLAM、定位、重建、表示、交互以及其他相关方向。方向汇总与核心成果可在下图中查看。
 
-![SIIG Research Overview](/assets/img/SIIG_Research_Overview_with_Papers.png)
+![SIIG Research Overview](/assets/img/SIIG_Research_Overview_with_paper.png)
 
 
 
@@ -40,16 +41,11 @@ Our primary research areas focus on the intersection of spatial intelligence and
 …etc. -->
 
 ### Related Projects
-
- - 基于共享多任务低维隐码的空间人工智能系统空间感知能力研究，**国自然青年**，2025.01-2027.12，主持【<span style="color:red;">统一</span>、<span style="color:green;">通用</span>】；
-
- - 具备终生学习能力的机器人通用视觉自主定位技术研究，**浙江省自然青年项目**，2025.01-2026.12，主持【<span style="color:green;">通用</span>、<span style="color:blue;">鲁棒</span>】；
-
- - 视觉基础模型驱动的 3DGS 通用场景建模与多任务适配研究，**CAD&CG全重实验室开放课题**，2025.01-2026.12，主持【<span style="color:red;">统一</span>、<span style="color:green;">通用</span>】；
-
- - 面向封闭低光照环境的视-惯-热融合高斯溅射SLAM算法研究，**ICT全重实验室开放课题**，2025.01-2025.12，主持【<span style="color:blue;">鲁棒</span>】；
-
- - 医疗急救无人机在亚运医疗保障的应用，**杭州亚运会智能应用项目**，2022.04-2022.09，参与【<span style="color:blue;">鲁棒</span>】。
+ 1. 基于共享多任务低维隐码的空间人工智能系统空间感知能力研究，**国自然青年**，2025.01-2027.12，主持【<span style="color:red;">统一</span>、<span style="color:green;">通用</span>】；
+ 2. 具备终生学习能力的机器人通用视觉自主定位技术研究，**浙江省自然青年项目**，2025.01-2026.12，主持【<span style="color:green;">通用</span>、<span style="color:blue;">鲁棒</span>】；
+ 3. 视觉基础模型驱动的 3DGS 通用场景建模与多任务适配研究，**CAD&CG全重实验室开放课题**，2025.01-2026.12，主持【<span style="color:red;">统一</span>、<span style="color:green;">通用</span>】；
+ 4. 面向封闭低光照环境的视-惯-热融合高斯溅射SLAM算法研究，**ICT全重实验室开放课题**，2025.01-2025.12，主持【<span style="color:blue;">鲁棒</span>】；
+ 5. 医疗急救无人机在亚运医疗保障的应用，**杭州亚运会智能应用项目**，2022.04-2022.09，参与【<span style="color:blue;">鲁棒</span>】。
 
 ### Join Us
 
