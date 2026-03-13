@@ -12,7 +12,7 @@ nav_order: 2
 
 ## About
 
-<img src="/assets/img/siig.png" alt="SIIG Logo" style="position:absolute; top:4.5rem; right:2rem; height:3rem; z-index:10;" />
+<img src="/assets/img/siig.png" alt="SIIG Logo" style="float:right; height:3rem; max-width:10rem; margin:0 0 1rem 1rem;" />
 
 The **SIIG (Spatial Intelligent and Interaction Group)** is a research group under [Zhejiang Provincial Key Laboratory of BCCITA](https://research.hdu.edu.cn/2026/0311/c11945a290176/page.htm) and [Institute of Cognitive Computing and Intelligent Interaction](https://cs.hdu.edu.cn/12277/list.htm). 
 
@@ -20,7 +20,7 @@ Our primary research areas focus on the intersection of spatial intelligence and
 
 我们的主要研究方向聚焦空间智能与具身智能的交叉，围绕系统的**统一性**、**通用性**和**鲁棒性**这三个方面开展研究工作。主要研究方向包括 SLAM、定位、重建、表示、交互以及其他相关方向。方向汇总与核心成果可在下图中查看。
 
-![SIIG Research Overview](/assets/img/SIIG_Research_Overview_with_paper.png)
+<img src="/assets/img/SIIG_Research_Overview_with_paper.png" alt="SIIG Research Overview" style="width:100%; max-width:760px; height:auto;" />
 
 
 
