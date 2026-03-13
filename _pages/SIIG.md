@@ -12,7 +12,7 @@ nav_order: 2
 
 ## About
 
-<img src="/assets/img/siig.png" alt="SIIG Logo" style="float:right; height:6rem; max-width:12rem; margin:-2.25rem 0 1rem 1rem;" />
+<img src="/assets/img/siig.png" alt="SIIG Logo" style="float:right; height:6rem; max-width:12rem; margin:-10rem 0 1rem 1rem;" />
 
 The **SIIG (Spatial Intelligent and Interaction Group)** is a research group under [Zhejiang Provincial Key Laboratory of BCCITA](https://research.hdu.edu.cn/2026/0311/c11945a290176/page.htm) and [Institute of Cognitive Computing and Intelligent Interaction](https://cs.hdu.edu.cn/12277/list.htm). 
 
