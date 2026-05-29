@@ -47,7 +47,7 @@ Our primary research areas focus on the intersection of spatial intelligence and
 - Master Students: Liangjun Huang (2026), Junyi Mao (2026), Wenjun Wang (2026), Size Song (2026), Ming Liu (2026), Chenxin Fang (2025), Meiyue Guo (2025), Tingkang Xi (2024), Zhi Zhang (2024).
 - Undergraduate Students: Zhengyi Xu (2024), Hanyu Zhu (2023).
 - Alumni: 
-  - 2026: Di Ma (M.E., HUAWEI, 国家奖学金， 浙江省优秀毕业生) Minyang Xu (M.E., YIQIYIN FINTECH, 国家奖学金， 浙江省优秀毕业生), Jinyi Xu (B.E., Tongji University).
+  - 2026: Di Ma (M.E., HUAWEI, 国家奖学金, 浙江省优秀毕业生) Minyang Xu (M.E., YIQIYIN FINTECH, 国家奖学金, 浙江省优秀毕业生), Jinyi Xu (B.E., Tongji University).
     <div style="text-align:center; margin-top:1rem;">
       <img src="/assets/img/graduate-2026.jpg" alt="class of 2026" style="max-width:100%; height:auto; border-radius:0.5rem;" />
       <p style="margin-top:0.5rem; font-size:0.9rem; color:#666;">Class of 2026</p>
